@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "f95d20f5fb6af543bf51ea7367d2b5e5541a88370330231be79a910618671ced"
+build_start_time: [1667326471, 9909152]
+build_end_time: [1667326471, 29239177]
+inputs:
+  "/Users/wojtacha/Repos/private/flut/ios/Runner/AppDelegate.swift": !private [1644454869, 0]
